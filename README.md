@@ -9,7 +9,7 @@
 <img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esavenko&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,13 +46,21 @@ Sunday                   57 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+TypeScript               8 hrs 30 mins       ██████████████░░░░░░░░░░░   54.44 % 
+Vue.js                   4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+PHP                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-github-md                0 secs              █████████████████████████   100.00 % 
+b2b.frontend             13 hrs 13 mins      █████████████████████░░░░   84.58 % 
+storybook-test           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+b2b.rusklimat.com        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+github-md                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      15 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -72,5 +80,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/esavenko/esavenko/master/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 18:42:50 UTC
+ Last Updated on 20/12/2024 18:42:36 UTC
 <!--END_SECTION:waka-->
