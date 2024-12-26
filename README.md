@@ -9,13 +9,11 @@
 <img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esavenko&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.5 kB Used in GitHub's Storage 
- > 
-> 🏆 93 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,5 +58,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/esavenko/esavenko/master/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 18:41:32 UTC
+ Last Updated on 26/12/2024 18:42:11 UTC
 <!--END_SECTION:waka-->
