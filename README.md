@@ -15,6 +15,8 @@
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -35,10 +37,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.29 % 
+TypeScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Go                       47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+SQL                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+PHP                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -58,5 +64,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/esavenko/esavenko/master/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 18:42:39 UTC
+ Last Updated on 05/02/2025 18:43:13 UTC
 <!--END_SECTION:waka-->
