@@ -9,13 +9,11 @@
 <img height="202px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esavenko&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=,Redventures-Movie-Quotes&theme=dark&text_color=010101&bg_color=fff9dd&show_icons=true"/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.9 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,14 +35,14 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.29 % 
-TypeScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Go                       47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-SQL                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-PHP                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Vue.js                   7 hrs 52 mins       █████████████████░░░░░░░░   68.54 % 
+TypeScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Go                       47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+PHP                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -64,5 +62,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/esavenko/esavenko/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 18:43:13 UTC
+ Last Updated on 06/02/2025 18:42:59 UTC
 <!--END_SECTION:waka-->
