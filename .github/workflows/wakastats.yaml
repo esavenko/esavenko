@@ -20,4 +20,5 @@ jobs:
           DEBUG_LOGGING: 'false'
           SHOW_PROJECTS: 'false'
           SHOW_DAYS_OF_WEEK: 'false'
-          SHOW_TIMELINE: 'false'
+          SHOW_TOTAL: 'false'
+          TIME_RANGE: all_time
